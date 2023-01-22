@@ -1,0 +1,82 @@
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Compras.resources
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Stock.resources
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Ventas.resources
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.resulta2.resources
+C:\Users\Alexei\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Inicio.resources
+D:\TPIII\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\TPIII\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\TPIII\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\TPIII\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\TPIII\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\TPIII\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\TPIII\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\TPIII\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Compras.resources
+D:\TPIII\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Inicio.resources
+D:\TPIII\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+D:\TPIII\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\TPIII\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.resulta2.resources
+D:\TPIII\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Stock.resources
+D:\TPIII\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Ventas.resources
+D:\TPIII\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\TPIII\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Compras.resources
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Inicio.resources
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.resulta2.resources
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Stock.resources
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Ventas.resources
+D:\TPILG\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Compras.resources
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Inicio.resources
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.resulta2.resources
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Stock.resources
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Ventas.resources
+D:\TPILG1\TPILG1\TPILG\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Compras.resources
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Inicio.resources
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.resulta2.resources
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Stock.resources
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Ventas.resources
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\garci\Downloads\WindowsApplication1-20221217T081236Z-001\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
